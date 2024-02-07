@@ -1,0 +1,24 @@
+{
+  "produtc": [
+    {"id":1,"nama":"Potoroo","category":"Fuscia"},
+{"id":2,"nama":"Cape fox","category":"Mauv"},
+{"id":3,"nama":"Lion, australian sea","category":"Purple"},
+{"id":4,"nama":"Otter, giant","category":"Aquamarine"},
+{"id":5,"nama":"Seal, northern fur","category":"Mauv"},
+{"id":6,"nama":"Bat, little brown","category":"Orange"},
+{"id":7,"nama":"Chital","category":"Crimson"},
+{"id":8,"nama":"Campo flicker","category":"Mauv"},
+{"id":9,"nama":"European spoonbill","category":"Red"},
+{"id":10,"nama":"Gazelle, thomson's","category":"Fuscia"},
+{"id":11,"nama":"Lion, asian","category":"Orange"},
+{"id":12,"nama":"Black-backed jackal","category":"Pink"},
+{"id":13,"nama":"Stork, jabiru","category":"Violet"},
+{"id":14,"nama":"Chilean flamingo","category":"Red"},
+{"id":15,"nama":"Lion, mountain","category":"Turquoise"},
+{"id":16,"nama":"Nyala","category":"Teal"},
+{"id":17,"nama":"Asian lion","category":"Puce"},
+{"id":18,"nama":"Hare, arctic","category":"Red"},
+{"id":19,"nama":"Lapwing (unidentified)","category":"Khaki"},
+{"id":20,"nama":"Common langur","category":"Purple"}
+  ];
+}
